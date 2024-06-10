@@ -1,0 +1,32 @@
+.search{
+    align-content: center;
+    text-align: center;
+    font-family: monospace;
+    width: 140px;
+    height: 25px;
+    color: #119B9D;
+    background-color: white;
+    border: 2px solid #119B9D;
+    border-radius: 15px;
+}
+
+.plus{
+    align-content: center;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    color: white;
+    background-color: #02D1B3;
+    border-radius: 50px;
+}
+
+.create{
+    align-content: center;
+    text-align: center;
+    font-family: monospace;
+    width: 150px;
+    height: 25px;
+    color: white;
+    background-color: #2B78E4;
+    border: 2px solid black;
+}
